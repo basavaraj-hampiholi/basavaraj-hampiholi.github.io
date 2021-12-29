@@ -1,7 +1,8 @@
-theme: jekyll-theme-minimal
+
 lsi: false
 safe: true
 source: /basavaraj-hampiholi/basavaraj-hampiholi.github.io/
+theme: jekyll-theme-minimal
 incremental: false
 highlighter: rouge
 gist:
