@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+lsi: false
+safe: true
+source: /basavaraj-hampiholi/basavaraj-hampiholi.github.io/
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
