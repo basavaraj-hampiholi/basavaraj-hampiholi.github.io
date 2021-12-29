@@ -1,4 +1,3 @@
-Basavaraj Hampiholi
-Doctoral Researcher @ BMW
-Ulm University
-Artificial Intelligence: Deep Learning, Computer Vision&Image Processing, Multimodal Learning
+layout: page
+title: "Basavaraj Hampiholi"
+permalink: /basavaraj-hampiholi.github.io/index.md
