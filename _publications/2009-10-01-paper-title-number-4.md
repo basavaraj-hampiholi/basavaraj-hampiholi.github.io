@@ -4,7 +4,7 @@ excerpt: 'We present a novel global representation of 3D shapes, suitable for th
 date: 2018-09-01
 venue: 'European Conference on Computer Vision 2018, Munich'
 paperurl: 'https://openaccess.thecvf.com/content_ECCV_2018/papers/Kripasindhu_Sarkar_Learning_3D_shapes_ECCV_2018_paper.pdf'
-citation: 'Kripasindhu Sarkar, <b> Basavaraj Hampiholi </b>, Kiran Varanasi, Didier Stricker (2018). &quot;Learning 3D Shapes as Multi-Layered Height-maps using 2D Convolutional Networks .&quot; <i>European Conference on Computer Vision 2018 1</i>'
+citation: 'Kripasindhu Sarkar, <b> Basavaraj Hampiholi </b>, Kiran Varanasi, Didier Stricker (2018). &quot;Learning 3D Shapes as Multi-Layered Height-maps using 2D Convolutional Networks .&quot; <i> European Conference on Computer Vision 2018 </i>'
 ---
 
 [Download paper here](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kripasindhu_Sarkar_Learning_3D_shapes_ECCV_2018_paper.pdf)
