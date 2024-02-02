@@ -4,7 +4,7 @@ excerpt: 'Fine-grained temporal action segmentation in long, untrimmed RGB video
 date: 2020-11-25
 venue: '2020 International Conference on 3D Vision (3DV)'
 paperurl: '(https://ieeexplore.ieee.org/document/9320343)'
-citation: 'Basavaraj Hampiholi, Christian Jarvers, Wolfgang Mader, Heiko Neumann(2010). &quot;Depthwise Separable Temporal Convolutional Network for Action Segmentation .&quot; <i>2020 International Conference on 3D Vision (3DV) 1</i>. 1(2).'
+citation: 'Basavaraj Hampiholi, Christian Jarvers, Wolfgang Mader, Heiko Neumann (2020). &quot;Depthwise Separable Temporal Convolutional Network for Action Segmentation .&quot; <i>2020 International Conference on 3D Vision (3DV) 1</i>. 1(2).'
 ---
 
 [Download paper here](https://ieeexplore.ieee.org/document/9320343)
