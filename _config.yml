@@ -7,9 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-
-
-title                    : "AI Corner"
+title                    : "    AI Corner"
 title_separator          : "-"
 name                     : &name "Basavaraj Hampiholi"
 description              : &description "AI Research and Development"
