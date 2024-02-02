@@ -7,4 +7,4 @@ paperurl: '(https://ieeexplore.ieee.org/document/9320343)'
 citation: 'Xiao Hu, <b> Basavaraj Hampiholi </b> , Heiko Neumann, Jochen Lang (2024). &quot;Temporal Context Enhanced Referring Video Object Segmentation .&quot; <i> WACV 2024 </i>'
 ---
 
-[Download paper here](https://ieeexplore.ieee.org/document/9320343)
+[Download paper here](https://openaccess.thecvf.com/content/WACV2024/html/Hu_Temporal_Context_Enhanced_Referring_Video_Object_Segmentation_WACV_2024_paper.html)
