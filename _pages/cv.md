@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Bachelor of Engineering in Computer Science, VTU Belagavi, India, 2011.
 * M.Sc. in Computer Science, Technical University Kaiserslautern, Kaiserslautern, Germany, 2018.
 * Ph.D. in Artificial Intelligence, Ulm University, Ulm, Germany, 2024 (expected).
 
-Work experience
+## Work experience
 ======
 ### BMW Car IT Gmbh, Ulm, Germany     12/2018 – 02/2022   
 #### <i> Ph.D. Student | Deep Learning and Computer Vision </i>
@@ -37,7 +37,7 @@ Work experience
 - Applied predictive analytics to prevent glass breakages in the glass manufacturing plants. This saved material loss and time.
 - Automation of data gathering using R scripting and scheduling through IBM SPSS Manager (C&DS)
   
-Skills
+## Skills
 ======
 * Skill 1
 * Skill 2
@@ -46,24 +46,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+## Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
