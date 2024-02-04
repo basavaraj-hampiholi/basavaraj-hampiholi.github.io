@@ -30,7 +30,7 @@ redirect_from:
 - Deep learning for the garbage monitoring system to assist the city office in the automatic detection and recognition of illegal dumping.
   
 ### Tata Consultancy Services (TCS), Pune, India    12/2011 – 11/2014  
-#### Data Engineer | Manufacturing Information Systems and Data Analytics
+<b> Data Engineer | Manufacturing Information Systems and Data Analytics </b>
 - Data collection from various sources such as sensors in manufacturing plants, historian databases, quality systems, and production order planning systems.
 - Created database views and developed SQL scripts to retrieve relevant data and store it in a relational database (Oracle).
 - Applied feature engineering techniques to clean the data for further modeling purposes.
@@ -39,12 +39,10 @@ redirect_from:
   
 ## Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+<b> Programming: </b> Python{Scikit-Image, NumPy, SciPy, Pandas}, OpenCV, C++, SQL
+<b> Machine Learning Tools: </b> PyTorch, Keras, Tensorflow, Scikit-learn, MLFlow (MLOps), Azure, SPSS 
+<b> Operating System: </b> Linux (Ubuntu), Windows-10, ROS, Docker
+<b> Languages: </b> German (B1)- Intermediate, English- Proficient, Hindi- Proficient
 
 ## Publications
 ======
