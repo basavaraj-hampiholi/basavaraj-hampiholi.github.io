@@ -10,27 +10,27 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Bachelor of Engineering in Computer Science, VTU Belagavi, India, 2011.
 * M.Sc. in Computer Science, Technical University Kaiserslautern, Kaiserslautern, Germany, 2018.
 * Ph.D. in Artificial Intelligence, Ulm University, Ulm, Germany, 2024 (expected).
 
 ## Work experience
-======
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### BMW Car IT Gmbh, Ulm, Germany     12/2018 – 02/2022   
-#### <i> Ph.D. Student | Deep Learning and Computer Vision </i>
+#### Ph.D. Student | Deep Learning and Computer Vision 
 - Data analytics for gesture control technologies: Recognition of driver intentions using combined gesture and head pose data.
 - Designed and trained a novel deep neural network model for human action recognition in videos. Further, I proposed a new transformer-based fusion strategy to combine     
   multiple modalities that are homogeneous or heterogeneous. Our approaches not only achieved state-of-the-art results but are also resource efficient.
-- Pose estimation of sortbots using keypoint detection methods like keypoint RCNN, HRNet.
+- Pose estimation of Sortbots using keypoint detection methods like keypoint RCNN, and HRNet.
   
 ### NEC Labs Europe, Heidelberg, Germany    04/2018 – 09/2018  
-#### <i> Machine Learning Intern | Image Processing and Computer Vision </i>
+#### Machine Learning Intern | Image Processing and Computer Vision 
 - Automatic detection and tracking of prophase in mitotic cell division process (microscopic images) using deep learning model in assisting the biologist to analyze the cancer cell growth.
 - Deep learning for the garbage monitoring system to assist the city office in the automatic detection and recognition of illegal dumping.
   
 ### Tata Consultancy Services (TCS), Pune, India    12/2011 – 11/2014  
-#### <i> Data Engineer | Manufacturing Information Systems and Data Analytics </i>
+#### Data Engineer | Manufacturing Information Systems and Data Analytics
 - Data collection from various sources such as sensors in manufacturing plants, historian databases, quality systems, and production order planning systems.
 - Created database views and developed SQL scripts to retrieve relevant data and store it in a relational database (Oracle).
 - Applied feature engineering techniques to clean the data for further modeling purposes.
