@@ -18,19 +18,19 @@ redirect_from:
 ## Work experience
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### BMW Car IT Gmbh, Ulm, Germany     12/2018 – 02/2022   
-#### Ph.D. Student | Deep Learning and Computer Vision 
+#### <i> Ph.D. Student | Deep Learning and Computer Vision </i>
 - Data analytics for gesture control technologies: Recognition of driver intentions using combined gesture and head pose data.
 - Designed and trained a novel deep neural network model for human action recognition in videos. Further, I proposed a new transformer-based fusion strategy to combine     
   multiple modalities that are homogeneous or heterogeneous. Our approaches not only achieved state-of-the-art results but are also resource efficient.
 - Pose estimation of Sortbots using keypoint detection methods like keypoint RCNN, and HRNet.
   
 ### NEC Labs Europe, Heidelberg, Germany    04/2018 – 09/2018  
-#### Machine Learning Intern | Image Processing and Computer Vision 
+#### <i> Machine Learning Intern | Image Processing and Computer Vision </i>
 - Automatic detection and tracking of prophase in mitotic cell division process (microscopic images) using deep learning model in assisting the biologist to analyze the cancer cell growth.
 - Deep learning for the garbage monitoring system to assist the city office in the automatic detection and recognition of illegal dumping.
   
 ### Tata Consultancy Services (TCS), Pune, India    12/2011 – 11/2014  
-<b> Data Engineer | Manufacturing Information Systems and Data Analytics </b>
+#### <i> Data Engineer | Manufacturing Information Systems and Data Analytics </i>
 - Data collection from various sources such as sensors in manufacturing plants, historian databases, quality systems, and production order planning systems.
 - Created database views and developed SQL scripts to retrieve relevant data and store it in a relational database (Oracle).
 - Applied feature engineering techniques to clean the data for further modeling purposes.
@@ -38,14 +38,14 @@ redirect_from:
 - Automation of data gathering using R scripting and scheduling through IBM SPSS Manager (C&DS)
   
 ## Skills
-======
-<b> Programming: </b> Python{Scikit-Image, NumPy, SciPy, Pandas}, OpenCV, C++, SQL
-<b> Machine Learning Tools: </b> PyTorch, Keras, Tensorflow, Scikit-learn, MLFlow (MLOps), Azure, SPSS 
-<b> Operating System: </b> Linux (Ubuntu), Windows-10, ROS, Docker
-<b> Languages: </b> German (B1)- Intermediate, English- Proficient, Hindi- Proficient
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<b> Programming: </b> Python{Scikit-Image, NumPy, SciPy, Pandas}, OpenCV, C++, SQL \
+<b> Machine Learning Tools: </b> PyTorch, Keras, Tensorflow, Scikit-learn, MLFlow (MLOps), Azure, SPSS \
+<b> Operating System: </b> Linux (Ubuntu), Windows-10, ROS, Docker \
+<b> Languages: </b> German (B1)- Intermediate, English- Proficient, Hindi- Proficient \
 
 ## Publications
-======
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
