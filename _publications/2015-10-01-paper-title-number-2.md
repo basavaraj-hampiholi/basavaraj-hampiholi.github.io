@@ -7,4 +7,5 @@ paperurl: 'https://ieeexplore.ieee.org/document/10089434'
 citation: '<b>Basavaraj Hampiholi </b>, Christian Jarvers, Wolfgang Mader, Heiko Neumann (2023). &quot;Convolutional Transformer Fusion Blocks for Multi-Modal Gesture Recognition".&quot; <i> IEEE Access </i>'
 ---
 [Download paper here](https://ieeexplore.ieee.org/document/10089434)
+[Download code here](https://github.com/basavaraj-hampiholi/Multimodal-Action-Recognition)
 
