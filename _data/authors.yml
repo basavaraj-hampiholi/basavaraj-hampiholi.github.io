@@ -4,15 +4,7 @@ Name Name:
   name        : "Basavaraj Hampiholi"
   uri         : "https://basavaraj-hampiholi.github.io"
   email       : "basavaraj_hampiholi@outlook.com"
-  bio         : "This is the first name."
+  bio         : "This is a personal website."
   avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  twitter     : "https://twitter.com/b_hampiholi"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
