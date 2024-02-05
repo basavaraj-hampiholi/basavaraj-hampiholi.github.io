@@ -5,7 +5,7 @@ excerpt: 'The goal of Referring Video Object Segmentation is to extract an objec
 date: 2024-01-04
 venue: 'Conference on Applications of Computer Vision (WACV)'
 paperurl: '(https://ieeexplore.ieee.org/document/9320343)'
-citation: 'Xiao Hu, <b> Basavaraj Hampiholi </b> , Heiko Neumann, Jochen Lang (2024), &quot;Temporal Context Enhanced Referring Video Object Segmentation&quot; , <i> WACV 2024 </i>'
+citation: 'Xiao Hu, <b> Basavaraj Hampiholi </b> , Heiko Neumann, Jochen Lang (2024), &quot;Temporal Context Enhanced Referring Video Object Segmentation&quot;, <i> WACV 2024 </i>'
 
 ---
 
