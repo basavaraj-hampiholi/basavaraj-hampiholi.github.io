@@ -9,5 +9,5 @@ code: https://github.com/basavaraj-hampiholi/Multimodal-Action-Recognition
 ---
 [Download paper here](https://ieeexplore.ieee.org/document/10089434) \
 [Download code here](https://github.com/basavaraj-hampiholi/Multimodal-Action-Recognition)
----
+
 
