@@ -18,7 +18,7 @@ redirect_from:
 ## Work experience
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### BMW Car IT Gmbh, Ulm, Germany     12/2018 – 02/2022   
-#### <i> Ph.D. Student | Deep Learning and Computer Vision </i>
+<i> Ph.D. Student | Deep Learning and Computer Vision </i>
 - Data analytics for gesture control technologies: Recognition of driver intentions using combined gesture and head pose data.
 - Designed and trained a novel deep neural network model for human action recognition in videos. Further, I proposed a new transformer-based fusion strategy to combine     multiple modalities that are homogeneous or heterogeneous. Our approaches not only achieved state-of-the-art results but are also resource-efficient.
 - Pose estimation of Sortbots using keypoint detection methods like keypoint RCNN, and HRNet.
