@@ -12,7 +12,7 @@ I am an Artificial Intelligence (AI) researcher with a focus on various dimensio
 
 👉 Image processing, Computer vision, Deep learning
 
-👉 Machine learning and Data science
+👉 Data science and Machine learning
 
 👉 Multimodal fusion and learning
 
