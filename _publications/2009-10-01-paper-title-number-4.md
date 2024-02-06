@@ -6,6 +6,6 @@ venue: 'European Conference on Computer Vision 2018, Munich'
 paperurl: 'https://openaccess.thecvf.com/content_ECCV_2018/papers/Kripasindhu_Sarkar_Learning_3D_shapes_ECCV_2018_paper.pdf'
 citation: 'Kripasindhu Sarkar, <b> Basavaraj Hampiholi </b>, Kiran Varanasi, Didier Stricker (2018), &quot;Learning 3D Shapes as Multi-Layered Height-maps using 2D Convolutional Networks&quot;, <i> European Conference on Computer Vision 2018 </i>'
 ---
-[Download paper here](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kripasindhu_Sarkar_Learning_3D_shapes_ECCV_2018_paper.pdf)
+[Download paper here](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kripasindhu_Sarkar_Learning_3D_shapes_ECCV_2018_paper.pdf) \
 [Download code here](https://github.com/basavaraj-hampiholi/Master_Thesis_mlh_mvcnn)
 ---
