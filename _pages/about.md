@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI researcher focusing on different aspects:
+I am an Artificial Intelligence (AI) researcher with a focus on various dimensions in the field.
 
 👉 Image processing, Computer vision, Deep learning
 
