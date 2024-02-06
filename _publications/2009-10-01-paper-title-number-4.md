@@ -8,4 +8,3 @@ citation: 'Kripasindhu Sarkar, <b> Basavaraj Hampiholi </b>, Kiran Varanasi, Did
 ---
 [Download paper here](https://openaccess.thecvf.com/content_ECCV_2018/papers/Kripasindhu_Sarkar_Learning_3D_shapes_ECCV_2018_paper.pdf) \
 [Download code here](https://github.com/basavaraj-hampiholi/Master_Thesis_mlh_mvcnn)
----
