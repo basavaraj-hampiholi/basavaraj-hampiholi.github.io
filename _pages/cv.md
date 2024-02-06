@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<p style="color:#00008b"> ## Education </p>
+## Education 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Bachelor of Engineering in Computer Science, VTU Belagavi, India, 2011.
 * M.Sc. in Intelligent Systems, Technical University Kaiserslautern, Kaiserslautern, Germany, 2018.
 * Ph.D. in Artificial Intelligence, Ulm University, Ulm, Germany, 2024 (expected).
 
-<p style="color:#00008b"> ## Work experience </p>
+## Work experience 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### BMW Car IT Gmbh, Ulm, Germany      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         12/2018 – 02/2022   
 <i> Ph.D. Student | Deep Learning and Computer Vision </i>
@@ -36,14 +36,14 @@ redirect_from:
 - Applied predictive analytics to prevent glass breakages in the glass manufacturing plants. This saved material loss and time.
 - Automation of data gathering using R scripting and scheduling through IBM SPSS Manager (C&DS)
   
-<p style="color:#00008b"> ## Skills </p>
+## Skills 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b> Programming: </b> Python{Scikit-Image, NumPy, SciPy, Pandas}, OpenCV, C++, SQL \
 <b> Machine Learning Tools: </b> PyTorch, Keras, Tensorflow, Scikit-learn, MLFlow (MLOps), Azure, SPSS \
 <b> Operating System: </b> Linux (Ubuntu), Windows-10, ROS, Docker \
 <b> Languages: </b> German (B1)- Intermediate, English- Proficient, Hindi- Proficient 
 
-<p style="color:#00008b"> ## Publications </p>
+## Publications
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
