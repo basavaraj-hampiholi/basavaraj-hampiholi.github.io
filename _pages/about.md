@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 \
-I am an Artificial Intelligence (AI) researcher with the focus on
+I am a doctoral researcher at Ulm University in the field of Artificial Intelligence (AI). 
+Previously, I completed an M.Sc. in Computer Science (Intelligent Systems specialization)
+Technical University Kaiserslautern.
+
+### Research interests:
 
 👉 Image processing, Computer vision, Deep learning
 
