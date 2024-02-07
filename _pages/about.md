@@ -18,6 +18,9 @@ I am an Artificial Intelligence (AI) researcher with the focus on
 
 👉 Action detection and recognition in videos
 
+👉 Causal inference
+
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
