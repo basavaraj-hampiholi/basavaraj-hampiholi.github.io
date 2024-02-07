@@ -18,7 +18,7 @@ I am an Artificial Intelligence (AI) researcher with the focus on
 
 👉 Action detection and recognition in videos
 
-👉 Causal inference
+👉 Causal inference and Explainable AI
 
 
 Getting started
