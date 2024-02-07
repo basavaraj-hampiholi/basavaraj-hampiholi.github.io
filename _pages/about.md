@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 \
-I am an Artificial Intelligence (AI) researcher with a focus on,
+I am an Artificial Intelligence (AI) researcher with the focus on
 
 👉 Image processing, Computer vision, Deep learning
 
