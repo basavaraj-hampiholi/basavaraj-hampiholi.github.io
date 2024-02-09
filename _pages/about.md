@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 \
-Welcome to my space 🌌
+Welcome to my space 🤗 🌌
 
 \
 I am a doctoral researcher at Ulm University, Germany in the field of Artificial Intelligence (AI). 
