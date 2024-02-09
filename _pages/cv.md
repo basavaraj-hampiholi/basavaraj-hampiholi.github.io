@@ -39,7 +39,7 @@ redirect_from:
 ## Skills 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <b> Programming: </b> Python{Scikit-Image, NumPy, SciPy, Pandas}, OpenCV, C++, SQL \
-<b> Machine Learning Tools: </b> PyTorch, Keras, Tensorflow, Scikit-learn, MLFlow (MLOps), Azure, SPSS \
+<b> Machine Learning Tools: </b> PyTorch, Tensorflow, Scikit-learn, DoWhy, MLFlow (MLOps) \
 <b> Operating System: </b> Linux (Ubuntu), Windows-10, ROS, Docker, Kubernetes (RKE) \
 <b> Languages: </b> German (B1)- Intermediate, English- Proficient, Hindi- Proficient 
 
