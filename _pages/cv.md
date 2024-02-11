@@ -49,4 +49,4 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-[Download](https://github.com/basavaraj-hampiholi/basavaraj-hampiholi.github.io/blob/master/files/basavaraj_hampiholi_cv_en.pdf)
+[Download](https://basavaraj-hampiholi.github.io/files/basavaraj_hampiholi_cv_en.pdf)
