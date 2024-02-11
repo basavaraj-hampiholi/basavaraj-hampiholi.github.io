@@ -5,6 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+  - /files/basavaraj_hampiholi_cv_en.pdf
 ---
 
 {% include base_path %}
@@ -49,4 +50,3 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-[Download](https://github.com/basavaraj-hampiholi/basavaraj-hampiholi.github.io/blob/master/files/basavaraj_hampiholi_cv_en.pdf)
