@@ -48,3 +48,5 @@ redirect_from:
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+[Download](https://github.com/basavaraj-hampiholi/basavaraj-hampiholi.github.io/blob/master/files/basavaraj_hampiholi_cv_en.pdf)
