@@ -13,7 +13,7 @@ redirect_from:
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Bachelor of Engineering in Computer Science, VTU Belagavi, India, 2011.
 * M.Sc. in Intelligent Systems, Technical University Kaiserslautern, Kaiserslautern, Germany, 2018.
-* Ph.D. in Artificial Intelligence, Ulm University, Ulm, Germany, 2024 (expected).
+* Ph.D. in Artificial Intelligence, Ulm University, Ulm, Germany, 2025 (expected).
 
 ## Work experience 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
