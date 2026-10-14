@@ -5,7 +5,8 @@ An **academic-first GitHub Pages website** inspired by the calm typography and c
 ## Pages
 - `index.html` — about, recent research news, selected publications, and focus areas
 - `publications/index.html` — all four papers with expandable BibTeX
-- `research/index.html` — scientific projects and applied research
+- `research/index.html` — scientific projects and applied research, linking to eight dedicated project pages
+- `research/<project-slug>/index.html` — project overview, objectives, methodology, key contributions, results, and related publications
 - `cv/index.html` — academic CV and downloadable public PDF
 - `_bibliography/papers.bib` — editable BibTeX entries (for future migration to official al-folio)
 - `assets/pub-*.svg` — *original conceptual thumbnails*, not paper figures
@@ -24,6 +25,8 @@ Run `python3 -m http.server 8000` in the website folder, then visit `http://loca
 
 ## Customize
 - Edit page content in its respective `index.html`.
+- Research project pages live in `research/<project-slug>/index.html` and share the root `styles.css` and `script.js`. Keep the Research index and `sitemap.xml` in sync when adding a project. The six section IDs also power the on-page navigation.
+- Project content is based on the existing site and CV; add verified metrics to Results and publication links where available.
 - Change colors at the beginning of `styles.css`.
 - Replace `assets/profile-placeholder.svg` with an approved portrait (update the image filename and alt text in `index.html`).
 - Replace schematic publication thumbnails with real, publishable figures from your papers.
